@@ -1,5 +1,8 @@
 # equipeuniguacu
 <<<<<<< HEAD
+heheheheheheh
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 não
@@ -12,3 +15,4 @@ kkkkkkkkkkkkkkkk
 =======
 kkkkkkkkkkkkkkkkk
 >>>>>>> 3a1e142dfab3dffed66227a269275a3dbdb581ca
+>>>>>>> a750a4dd61d0e19898d38af70d69fdd0f79645d2
